@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "65228153875",
-    "project_id": "paive-37795",
-    "storage_bucket": "paive-37795.appspot.com"
+    "project_number": "672170577881",
+    "project_id": "paive-58f86",
+    "storage_bucket": "paive-58f86.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:65228153875:android:35a4d41aa5a9f861530be6",
+        "mobilesdk_app_id": "1:672170577881:android:b43596fdd40990742693c8",
         "android_client_info": {
           "package_name": "com.example.passlive"
         }
       },
       "oauth_client": [
         {
-          "client_id": "65228153875-rodjt9u26kuhhauh7025tojd9l2q4i55.apps.googleusercontent.com",
+          "client_id": "672170577881-ptce6r7mqrchpltkrdnoefpc98u2nv30.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBX2kFhzvJ3SpNmY5df0gmvZYRB1Z52saM"
+          "current_key": "AIzaSyBk2jYG0kWGk79rppaxBs9yyHFg7NLuAUI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "65228153875-rodjt9u26kuhhauh7025tojd9l2q4i55.apps.googleusercontent.com",
+              "client_id": "672170577881-ptce6r7mqrchpltkrdnoefpc98u2nv30.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
