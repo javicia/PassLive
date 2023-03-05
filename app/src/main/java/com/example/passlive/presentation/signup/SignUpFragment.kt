@@ -39,7 +39,7 @@ class SignUpFragment: Fragment() {
     private fun initObservers(){
         viewModel.signUpState.observe(viewLifecycleOwner){ state ->
             when (state) {
-                is Resource.Sucess -> {
+                is Resource.Success -> {
                     handleLoading(isLoading = false)
                     activity?.onBackPressed()
                     Toast.makeText(
