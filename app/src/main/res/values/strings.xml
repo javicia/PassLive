@@ -11,4 +11,15 @@
     <string name="login__signup_header">Registrarse</string>
     <string name="login__password_recovery_header">¿Olvidaste tu contraseña?</string>
 
+    //Drawer menu
+    <string name="option_profile">Perfil</string>
+    <string name="option_all">Todas</string>
+    <string name="option_settings">Ajustes</string>
+    <string name="option_contact">Contacto</string>
+    <string name="option_exit">Salir</string>
+
+    //Drawer layout
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
 </resources>
