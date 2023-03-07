@@ -34,6 +34,15 @@
             android:name="uid"
             app:nullable="false"
             app:argType="string"/>
+        <action
+            android:id="@+id/action_homeFragment_to_profile"
+            app:destination="@id/profile" />
+        <action
+            android:id="@+id/action_homeFragment_to_contact"
+            app:destination="@id/contact" />
+        <action
+            android:id="@+id/action_homeFragment_to_settings"
+            app:destination="@id/settings" />
 
     </fragment>
     <fragment
@@ -41,4 +50,19 @@
         android:name="com.example.passlive.presentation.password_recovery.PasswordRecoveryFragment"
         android:label="PasswordRecoveryFragment"
         tools:layout="@layout/fragment_password_recovery"/>
+    <fragment
+        android:id="@+id/profile"
+        android:name="com.example.passlive.fragment.profile.Profile"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/contact"
+        android:name="com.example.passlive.fragment.contact.Contact"
+        android:label="fragment_contact"
+        tools:layout="@layout/fragment_contact" />
+    <fragment
+        android:id="@+id/settings"
+        android:name="com.example.passlive.fragment.settings.Settings"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
 </navigation>

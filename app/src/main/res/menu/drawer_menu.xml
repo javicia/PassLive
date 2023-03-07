@@ -10,11 +10,6 @@
         android:icon="@drawable/icon_profile"
         />
     <item
-        android:id="@+id/optionAll"
-        android:title="@string/option_all"
-        android:icon="@drawable/icon_all"
-        />
-    <item
         android:id="@+id/optionSettings"
         android:title="@string/option_settings"
         android:icon="@drawable/icon_setting"
